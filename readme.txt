@@ -1,2 +1,3 @@
-Git is a version control system 1111.
-Git is free software 2222.
+Git is a version control system.
+Git is free software.
+this is version 3.0
